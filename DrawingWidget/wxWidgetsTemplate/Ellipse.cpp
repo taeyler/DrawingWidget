@@ -1,12 +1,6 @@
 /****************************************************************
 File: Ellipse.cpp
 Description: Ellipse source file
-
-Author: Taeyler Lyons
-Class: CSCI 120
-Date: 3.30.16
-
-I hereby certify that this program is entirely my own work.
 *****************************************************************/
 
 #include "wx/wx.h"
