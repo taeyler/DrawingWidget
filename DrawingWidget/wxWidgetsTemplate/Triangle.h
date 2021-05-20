@@ -1,12 +1,6 @@
 /****************************************************************
 File: Triangle.h
 Description: Triangle header file
-
-Author: Taeyler Lyons
-Class: CSCI 120
-Date: 3.30.16
-
-I hereby certify that this program is entirely my own work.
 *****************************************************************/
 
 #ifndef TRIANGLE_H
